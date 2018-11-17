@@ -1,1 +1,1 @@
-module github.com/altnometer/testmod
+module github.com/altnometer/testmod/v2
