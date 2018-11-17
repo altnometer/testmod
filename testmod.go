@@ -1,6 +1,9 @@
 package testmod
 
-import "fmt"
+import (
+	"errors"
+	"fmt"
+)
 
 // Hi returns a friendly greeting.
 func Hi(name, lang string) (string, error) {
